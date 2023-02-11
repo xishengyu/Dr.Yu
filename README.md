@@ -1,12 +1,15 @@
- ## **余喜生** *(yuxisheng@swufe.edu.cn)*
+> ## **余喜生** *(yuxisheng@swufe.edu.cn)*
 
-金融学博士（金融工程），数学硕士（泛函分析）；西南财经大学副教授，新南威尔士大学访问学者；首批四川省"天府万人计划"入选者，"天府英才卡"A卡持有人；西南财经大学"百人计划（学术B类）入选者；国家自科基金项目同行评议专家，教育部学位中心通讯评审专家，四川高校职称评定同行评议专家；中国工业与应用数学学会金融科技专委会委员，中国优选法统筹法与经济数学研究会经济数学与管理数学分会理事；成都市新经济产业委员会智库专家，中国科技城（绵阳）基金小镇高能致远公司学术顾问与特聘教授；成都市天府新区对冲基金学会金融数学专委会委员。
+![](D:\个人网站\md文档\图片\微信图片_20190717220917.jpg)
+金融学博士（金融工程），数学硕士（泛函分析）；西南财经大学副教授，新南威尔士大学访问学者；首批四川省"天府万人计划"入选者，"天府英才卡"A卡持有人；西南财经大学"百人计划（学术B类）入选者；国家自科基金项目同行评议专家，教育部学位中心通讯评审专家，四川高校职称评定同行评议专家；中国工业与应用数学学会金融科技专委会委员，中国优选法统筹法与经济数学研究会经济数学与管理数学分会理事；成都市新经济产业委员会智库专家，中国科技城（绵阳)基金小镇高能致远公司学术顾问与特聘教授；成都市天府新区对冲基金学会金融数学专委会委员。
 
 > #### 一、研究方向
-衍生品定价与对冲；量化交易与金融科技
+>
+> 衍生品定价与对冲；量化交易与金融科技
 
 > #### 二、讲授课程
-金融随机分析、金融衍生品定价、金融数学方法
+>
+> 金融随机分析、金融衍生品定价、金融数学方法
 
 > #### 三、学术论文（摘选）
 
@@ -20,23 +23,23 @@
 
   【***贡献***：提出了半鞅过程(资产收益过程)QV的两种估计式，比现有估计式具有更优的收敛性(收敛方式、收敛速度与估计误差)。提供了使用高频数据估计波动率的两种结果。受到著名计量经济学学家Eric Michel Renault的关注】
 
--  **X., Yu**. "Entropy Valuation of Option: Using Option-implied Information", In: *Entropy: Theory and New Insights*. Hyderabad, India: Vide Leaf. 2021. 
+- **X., Yu**. "Entropy Valuation of Option: Using Option-implied Information", In: *Entropy: Theory and New Insights*. Hyderabad, India: Vide Leaf. 2021. 
 
 - **X., Yu**. “Risk-Neutrality of RND and Option Pricing within an Entropy Framework”, *Entropy*, 2020, 22(8), 836.   (SCI, JCR二区)
 
 - **余喜生**，姚雨薇，”一类期权策略指数设计及其实证研究”，*中国软科学*，2019 (A1)：291-300. （CSSCI）
 
 - **X., Yu***, X., Xie. “Pricing American options: RNMs-constrained entropic least-squares approach”, *North Am. J. Econ. Finance*, 2015(31), [155-173](https://www.researchgate.net/publication/268693877_Pricing_American_options_RNMs-constrained_entropic_least-squares_approach). （SSCI, JCR分区[JIF 二区]）
-  
+
   【***贡献***：首次将Risk-neutral Moment引入期权的Entropy (熵) 定价模型，为实际金融市场提供了精准的风险中性定价测度，且是唯一的(无需要求市场完备)；从而提高了期权定价的精确性。一定程度上丰富了期权的熵定价方法研究内容】
-  
+
 - **X., Yu***, L., Yang. “Pricing American Options using a Nonparametric Entropy Approach”, *Discrete Dyn. Nat. Soc.*, 2014. (SCI, JCR三区)
 
 - **X., Yu***, Q., Liu. “Canonical Least-Squares Monte Carlo Valuation of American Options: Convergence and Empirical Pricing Analysis”, *Math. Probl.  Eng.*, 2014.  (SCI, JCR三区)
 
 - Q., Liu, **X., Yu***, “Canonical Least-Squares Monte Carlo: Empirical Evidence from S&P 100 Index and IBM Puts”, *Int. Rev. Appl Financ Issues Econ.*, 2013(05), 29-35. 
 
--  **X., Yu***, X., Xie. “On Derivations of Black-Scholes Greek Letters”, *Research Journal of Finance and Accounting*, 2013(04), 80-85. (被*Journal of Corporate Finance*等期刊论文他引11次).
+- **X., Yu***, X., Xie. “On Derivations of Black-Scholes Greek Letters”, *Research Journal of Finance and Accounting*, 2013(04), 80-85. (被*Journal of Corporate Finance*等期刊论文他引11次).
 
 - C., Luo*，**X., Yu**. “Analysis of queue with p-entering discipline during adaptive multistage vacations”, *Math. Comput. Model.*, 2010(51), 361-368.  (SCI, JCR一区)
 
@@ -68,6 +71,7 @@
 - **余喜生**，《[看期权策略如何设计——逻辑与案例](https://mp.weixin.qq.com/s?__biz=MzUzNjUxNTE4NA==&mid=2247483773&idx=1&sn=30cb046038119759d329814fa02de6d3&chksm=faf44662cd83cf74929035438222e29f456413b924143f7b67c2f20d8775464b1fe11af51692&token=641027228&lang=zh_CN#rd)》，*期权屋*【[转载](https://mp.weixin.qq.com/s?__biz=MzA5MzM4MzkyMw==&amp;mid=2650942845&amp;idx=1&amp;sn=04798149f0dbfea4e73cffc61d2f348b&token=641027228&lang=zh_CN#rd)】，2017.12.
 
 > #### 四、主持科研项目（省厅以上）
+
 - 2021年6月：交子金融科技中心（创新研究院成果转化专项资金项目），期权交易平台与衍生品数据开发；
 - 2019年10月：2019年度四川省哲学社会科学规划项目（重点项目）：重要区域金融中心形成动力机制研究——基于经济、金融阈值效应的视角 (SC19A017);
 - 2019年6月：2019年成都市哲学社会科学规划项目“‘五中心一枢纽’建设背景下金融中心城市形成动力机制研究 (2019L53);
@@ -80,6 +84,7 @@
 - 2017.01-2020.12: 国家自然科学基金面上项目(11671323)，复杂衍生品定价的新型拉氏变换方法。
 
 > #### 五、学术会议（摘选）
+
 - 第4届全国网络治理青年学者论坛，SSEBXM指数设计及其策略绩效——基于中国50ETF期权市场的研究，成都，2019年10月12-13. **大会邀请**报告；
 - 第31届 中国优选法统筹法与经济数学研究会经济数学与管理数学分会，Estimating Quadratic Variation Using a Generalized Ito Isometry, 敦煌，2019年8月23-26. **大会邀请**报告；
 - 11期香樟经济学论坛——金融工程与金融科技Seminar（成都），成都，2019年4月13-14，**召集人**；
@@ -91,6 +96,7 @@
 - the 24th Australian Finance and Business Conference, “Entropic Least-Square Valuation of American Option Subject to Moment constraints”, **Sydney**, Australia, (Dec. 14-16, 2011).
 
 > #### 六、学术等荣誉（校级以上）
+
 - 2021年7月：西南财经大学“优秀毕业论文”指导教师（带离散红利的欧式期权定价模型；2017级金融数学创新实验班，付希，保送至**复旦大学**数学学院金融专硕）；
 - 2020年11月：西南财经大学“优秀毕业论文”指导教师（期权静态对冲策略研究；2016级数学与应用数学双学位班，姚羽薇，保送至**北京大学**汇丰商学院）；
 - 2019年：西南财经大学“光华英才工程”项目（百人计划学术B类）；
@@ -117,6 +123,7 @@
 - 中国工业与应用数学学会“金融科技与计算专委会”委员。
 
 > #### 七、社会服务
+
 - 成都市天府新区“对冲基金学会”金融数学专委会委员；
 - 西南财经大学“特拉华数据科学学院”特聘导师；
 - 特聘讲师：策略星学院（国内高端期权培训机构）；
@@ -128,6 +135,7 @@
 - 国际性量化金融赛事、创新创业项目导师/评委：如：首届中国（横琴）国际高校量化金融大赛评委；西南财经大学创新创业俱乐部评委等。
 
 > #### 八、自我标签
+
 - 脑有科学，胸怀道义；
 - 规格严格，功夫到家；
 - 我的人生无宗教信仰，我的世界尽唯物主义。
@@ -135,3 +143,4 @@
 > #### 九、学术网站
 
 [https://www.researchgate.net/profile/Xisheng_Yu](https://www.researchgate.net/profile/Xisheng_Yu)
+
