@@ -96,7 +96,7 @@
 
 > ### 九、联系邮箱
 
-  - yuxisheng@swufe.edu.cn
+  E-mail: *<u>yuxisheng@swufe.edu.cn</u>*
 
 <style>
   @import url('./styles.css?v=20220712.2');
