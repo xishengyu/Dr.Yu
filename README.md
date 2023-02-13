@@ -12,7 +12,7 @@
 
 > #### 三、重要学术论著（选）
 
-- **余喜生***，姚雨薇. "离散分红情形下的欧式期权定价新模型"，*数学学报* (数学顶刊)，forthcoming.
+- **余喜生^**，姚雨薇. "离散分红情形下的欧式期权定价新模型"，*数学学报* (数学顶刊)，forthcoming.
   【***贡献***：研究了具挑战性的问题“多次离散分红欧式期权定价“。构建能够得到期权价格解析解的模型，其定价结果是当前国际已知最精确 (之一)】
 
 - **X., Yu**. “[On the convergence of two types of estimators of quadratic variation](https://www.researchgate.net/publication/344771552_On_the_convergence_of_two_types_of_estimators_of_quadratic_variation)”, *Math. Method. Appl. Sci.,* 45(18), 2022, [12206-12221](https://doi.org/10.1002/mma.8007). (JCR-Q1)
@@ -26,7 +26,7 @@
 
 - **X., Yu**. “[Risk-Neutrality of RND and Option Pricing within an Entropy Framework](https://www.researchgate.net/publication/343331402_Risk-Neutrality_of_RND_and_Option_Pricing_within_an_Entropy_Framework?_sg%5B0%5D=hogg-oTpvJ5V58EMYtM8UeQgMSHtYPJ7e2wZKoaa6g5QZtaJDaEl4Jq6rfi9kiEIFWC3gN5TBiyGztyJn8MmgDpeEFPf3_aeixsjIkN1.7zQQygMZkiVWleYQLPblaMKZ9LuD4PzSqYQMeJ_D2POxes7y8ETPLTyTvqsZl4Jziu0B_5OzOAW_Zkto7CMDoA)”, *Entropy*, 2020, 22(8), [836](https://www.mdpi.com/1099-4300/22/8/836).   (JCR-Q2; “期权Entropy定价方法”的**首创者M. Stutzer在此期刊独立发表论文**两篇)
 
-- **X., Yu***, X., Xie. “[Pricing American options: RNMs-constrained entropic least-squares approach](https://www.researchgate.net/publication/268693877_Pricing_American_options_RNMs-constrained_entropic_least-squares_approach)”, *North Am. J. Econ. Finance*, 2015(31), [155-173](https://www.sciencedirect.com/science/article/abs/pii/S1062940814001144?via%3Dihub). （ABS-2*）
+- **X., Yu^**, X., Xie. “[Pricing American options: RNMs-constrained entropic least-squares approach](https://www.researchgate.net/publication/268693877_Pricing_American_options_RNMs-constrained_entropic_least-squares_approach)”, *North Am. J. Econ. Finance*, 2015(31), [155-173](https://www.sciencedirect.com/science/article/abs/pii/S1062940814001144?via%3Dihub). （ABS-2*）
   【***贡献***：首次将Risk-neutral Moments引入s期权的Entropy (熵) 定价模型，为实际金融市场提供了精准的唯一风险中性定价测度；提高了美式期权定价的精确性】
 
 - **余喜生**，期权的价格信息与熵定价方法，西南财经大学出版社，20万字，2016年4月.
