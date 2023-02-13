@@ -2,15 +2,15 @@
 
 金融学博士（金融工程），数学硕士（泛函分析）；西南财经大学副教授，新南威尔士大学访问学者；首批四川省"万人计划"入选者，西南财经大学"百人计划"人选；国家自科基金项目同行评议专家，教育部学位中心通讯评审专家，四川省高校职称评定同行评议专家；中国工业与应用数学学会金融科技专委会委员，中国优选法统筹法与经济数学研究会经济数学与管理数学分会理事；成都市新经济产业委员会、青羊区人社局专家顾问。曾任金融数学系副主任、中金所会员单位培训讲师。
 
-> #### 一、研究方向
+> ### 一、研究方向
 
 衍生品定价与对冲、量化交易与金融科技
 
-> #### 二、讲授课程
+> ### 二、讲授课程
 
 金融随机分析、金融衍生品定价、金融数学方法
 
-> #### 三、重要学术论著（选）
+> ### 三、重要学术论著（选）
 
 - **余喜生^**，姚雨薇. "离散分红情形下的欧式期权定价新模型"，*数学学报* (数学顶刊)，forthcoming.
     
@@ -44,7 +44,7 @@
 
 第一主研国家自科面上项目2项.
 
-> #### 五、学术会议（选）
+> ### 五、学术会议（选）
 
 - 第二十届中国金融工程学年会，*Market Time-series Reversal**：**Evidence from China**’**s market*，西藏，2022/06/25，线上
 - 第十八届中国金融学年会，*Valuation of European options on stock with discrete known dividends: An accurate dividend-weighted model*，厦门大学，2021/10/31，线上
@@ -57,7 +57,7 @@
 - **Nomination Award for Excellent Paper**, 2011-Financial Management Associate Meeting (2011-FMA), **Denver,** USA (Oct. 19-22, 2011);  
 - the 24th Australian Finance and Business Conference, “Entropic Least-Square Valuation of American Option Subject to Moment constraints”, **Sydney**, Australia, (Dec. 14-16, 2011).
 
-> #### 六、荣誉
+> ### 六、荣誉
 
 - 学术/人才称号
   - 2019/10：四川省“天府英才卡”A卡持有人 (省人才办)；
@@ -76,7 +76,7 @@
   - 学校：优秀共产党员、抗震救灾先进个人；
   - 学院：管理服务工作突出奖、优秀党员教师、优秀党务工作者、管理工作突出奖等.  
 
-> #### 七、成果转化
+> ### 七、成果转化
 
 - “衍生品定价模型”，某期货有限公司，2015/04；
 
@@ -86,7 +86,7 @@
 
 - “金融科技孵化——新兴数字化投资技术创新”，成都交子金融科技中心某单位，2020.
 
-> #### 八、热点杂文
+> ### 八、热点杂文
 
 - **余喜生**，《[“雪球产品”的定价准确吗？——“雪球”的背后解析](https://mp.weixin.qq.com/s?__biz=MzUzNjUxNTE4NA==&mid=2247484093&idx=1&sn=df8fc125026035fb4817368cc392c9b1&chksm=faf445a2cd83ccb4a1f217d2fa44e67d971b0b23e1d515111242f1dd092c3896a2e47c763c21&token=641027228&lang=zh_CN#rd)》，*期权世界*【 [转载](https://mp.weixin.qq.com/s?__biz=MzA4MTMyNjIyNw==&amp;mid=2650935834&amp;idx=1&amp;sn=c16f00c84cdc0d4c25c5bb6dbc4893f9&token=641027228&lang=zh_CN#rd)】，2021.05.
 
