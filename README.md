@@ -20,7 +20,7 @@
   
   【***贡献***：对之前提出的QV两个估计式进行了扩展：证明了在较弱条件下，其中的time-varying volatility (时变波动率)可扩展至随机波动率】
 
-- **X., Yu**. “[A unified entropic pricing framework of option: Using Cressie-Read family of divergences](https://www.researchgate.net/publication/352493790_A_Unified_Entropic_Pricing_Framework_of_Option_Using_Cressie-Read_Family_of_Divergences?_sg%5B0%5D=f5WJL6XISc8VYsRoLBiurV3KAHfQHUhlP_zVXY4PjaaH5gghGyj5Kv3wW665KVtSb7YnDm4aYRdCs6JLW0Pd3wwXQdNuSlMuIbVVHWL8.TGf4PzwLj2QqbBaJuEhlIZKD-_qMESEfE8WqtM85lHChGGe9O-jWTsteiWfQpMdvNxONWOZrkUaYRQT0GtPuhw)”, *The North American Journal of Economics and Finance*, 2021 (58), [101495](https://doi.org/10.1016/j.najef.2021.101495). (ABS-2☆)
+- **X., Yu**. “[A unified entropic pricing framework of option: Using Cressie-Read family of divergences](https://www.researchgate.net/publication/352493790_A_Unified_Entropic_Pricing_Framework_of_Option_Using_Cressie-Read_Family_of_Divergences?_sg%5B0%5D=f5WJL6XISc8VYsRoLBiurV3KAHfQHUhlP_zVXY4PjaaH5gghGyj5Kv3wW665KVtSb7YnDm4aYRdCs6JLW0Pd3wwXQdNuSlMuIbVVHWL8.TGf4PzwLj2QqbBaJuEhlIZKD-_qMESEfE8WqtM85lHChGGe9O-jWTsteiWfQpMdvNxONWOZrkUaYRQT0GtPuhw)”, *North Am. J. Econ. Finance*, 2021 (58), [101495](https://doi.org/10.1016/j.najef.2021.101495). (ABS-2☆)
  
   【***贡献***：建立了广泛熵定价统一框架，对欧式期权进行了定价分析与比较。可用于美式等期权定价】
   
