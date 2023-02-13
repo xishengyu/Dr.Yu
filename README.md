@@ -12,8 +12,8 @@
 
 > ### 三、重要学术论著（选）
 
-- **余喜生★**，姚雨薇. "离散分红情形下的欧式期权定价新模型"，*数学学报* (数学顶刊)，forthcoming.
-  -【***贡献***：研究了具挑战性的问题“多次离散分红欧式期权定价“。构建能够得到期权价格解析解的模型，其定价结果是当前国际已知最精确 (之一)】
+- **余喜生★**，姚雨薇. "离散分红情形下的欧式期权定价新模型"，*数学学报* (数学顶刊)，forthcoming
+  - 【***贡献***：研究了具挑战性的问题“多次离散分红欧式期权定价“。构建能够得到期权价格解析解的模型，其定价结果是当前国际已知最精确 (之一)】
 
 - **X., Yu**. “[On the convergence of two types of estimators of quadratic variation](https://www.researchgate.net/publication/344771552_On_the_convergence_of_two_types_of_estimators_of_quadratic_variation)”, *Math. Method. Appl. Sci.,* 45(18), 2022, [12206-12221](https://doi.org/10.1002/mma.8007). (JCR-Q1)
   
