@@ -13,8 +13,7 @@
 > #### 三、重要学术论著（选）
 
 - **余喜生^**，姚雨薇. "离散分红情形下的欧式期权定价新模型"，*数学学报* (数学顶刊)，forthcoming.
-  
-  【***贡献***：研究了具挑战性的问题“多次离散分红欧式期权定价“。构建能够得到期权价格解析解的模型，其定价结果是当前国际已知最精确 (之一)】
+    【***贡献***：研究了具挑战性的问题“多次离散分红欧式期权定价“。构建能够得到期权价格解析解的模型，其定价结果是当前国际已知最精确 (之一)】
 
 - **X., Yu**. “[On the convergence of two types of estimators of quadratic variation](https://www.researchgate.net/publication/344771552_On_the_convergence_of_two_types_of_estimators_of_quadratic_variation)”, *Math. Method. Appl. Sci.,* 45(18), 2022, [12206-12221](https://doi.org/10.1002/mma.8007). (JCR-Q1)
   
@@ -22,8 +21,8 @@
 
 - **X., Yu**. “[A unified entropic pricing framework of option: Using Cressie-Read family of divergences](https://www.researchgate.net/publication/352493790_A_Unified_Entropic_Pricing_Framework_of_Option_Using_Cressie-Read_Family_of_Divergences?_sg%5B0%5D=f5WJL6XISc8VYsRoLBiurV3KAHfQHUhlP_zVXY4PjaaH5gghGyj5Kv3wW665KVtSb7YnDm4aYRdCs6JLW0Pd3wwXQdNuSlMuIbVVHWL8.TGf4PzwLj2QqbBaJuEhlIZKD-_qMESEfE8WqtM85lHChGGe9O-jWTsteiWfQpMdvNxONWOZrkUaYRQT0GtPuhw)”, *The North American Journal of Economics and Finance*, 2021 (58), [101495](https://doi.org/10.1016/j.najef.2021.101495). (ABS-2☆)
  
- 【***贡献***：建立了广泛熵定价统一框架，对欧式期权进行了定价分析与比较。可用于美式等期权定价】
-
+  【***贡献***：建立了广泛熵定价统一框架，对欧式期权进行了定价分析与比较。可用于美式等期权定价】
+  
 - **X., Yu**. “[Nonparametric estimation of quadratic variation using high-frequency data](https://www.researchgate.net/publication/344224871_Nonparametric_estimation_of_quadratic_variation_using_high-frequency_data)”, *Math. Method. Appl Sci.*, 2021, [6863](https://onlinelibrary.wiley.com/doi/10.1002/mma.6863). (JCR-Q1)
   
   【***贡献***：构造了资产收益半鞅过程QV的两种估计式，比现有估计式具有更优的收敛性与应用性。提供了使用高频数据估计波动率的两种结果。受计量经济学学者Eric Michel Renault的关注】
