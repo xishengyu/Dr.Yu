@@ -1,5 +1,5 @@
 >## 余喜生
-yuxisheng@swufe.edu.cn
+
 金融学博士（金融工程），数学硕士（泛函分析）；西南财经大学副教授，新南威尔士大学访问学者；首批四川省"万人计划"入选者，西南财经大学"百人计划"人选；国家自科基金项目同行评议专家，教育部学位中心通讯评审专家，四川省高校职称评定同行评议专家；中国工业与应用数学学会金融科技专委会委员，中国优选法统筹法与经济数学研究会经济数学与管理数学分会理事；成都市新经济产业委员会、青羊区人社局专家顾问。曾任金融数学系副主任、中金所会员单位培训讲师。
 
 > #### 一、研究方向
@@ -86,7 +86,7 @@ yuxisheng@swufe.edu.cn
 
 - “金融科技孵化——新兴数字化投资技术创新”，成都交子金融科技中心某单位，2020.
 
-> #### 八、成果转化【**热点杂文**】
+> #### 八、**热点杂文**
 
 - **余喜生**，《[“雪球产品”的定价准确吗？——“雪球”的背后解析](https://mp.weixin.qq.com/s?__biz=MzUzNjUxNTE4NA==&mid=2247484093&idx=1&sn=df8fc125026035fb4817368cc392c9b1&chksm=faf445a2cd83ccb4a1f217d2fa44e67d971b0b23e1d515111242f1dd092c3896a2e47c763c21&token=641027228&lang=zh_CN#rd)》，*期权世界*【 [转载](https://mp.weixin.qq.com/s?__biz=MzA4MTMyNjIyNw==&amp;mid=2650935834&amp;idx=1&amp;sn=c16f00c84cdc0d4c25c5bb6dbc4893f9&token=641027228&lang=zh_CN#rd)】，2021.05.
 
@@ -97,3 +97,5 @@ yuxisheng@swufe.edu.cn
 - **余喜生**，《[“联合石化原油交易亏损‘事件’”若干问题的分析与思考](https://mp.weixin.qq.com/s?__biz=MzUzNjUxNTE4NA==&mid=2247483998&idx=1&sn=89c174d8eb5229bd24e1f52fd86beb40&chksm=faf44541cd83cc579782cadaea6e2eedd1d45822e72e59489674ee81c6189fb8514455d359a0&token=641027228&lang=zh_CN#rd)》, *和讯名家*【[专栏](http://options.hexun.com/2019-01-02/195740909.html)】，2019.01.
 
 - **余喜生**，《[大学数学，爱也罢恨也罢](https://mp.weixin.qq.com/s?__biz=MzUzNjUxNTE4NA==&mid=2247483921&idx=1&sn=719928ebf1d5dedaa4fd02986b8159cc&chksm=faf4450ecd83cc18690b91b8b84c93be923594fcca917352eb750c783e5f5d14726d7162bd11&token=641027228&lang=zh_CN#rd)》，*中国数学会*【[转载](https://mp.weixin.qq.com/s?__biz=MzIxNTk0MzMwOQ==&amp;mid=2247485924&amp;idx=1&amp;sn=56657a88228499285ae2bfcab6a7f14d&token=641027228&lang=zh_CN#rd)】，2018.03.
+> #### 九、**联系邮箱**
+> yuxisheng@swufe.edu.cn
