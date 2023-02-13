@@ -98,9 +98,9 @@
 
 - **余喜生**，《[大学数学，爱也罢恨也罢](https://mp.weixin.qq.com/s?__biz=MzUzNjUxNTE4NA==&mid=2247483921&idx=1&sn=719928ebf1d5dedaa4fd02986b8159cc&chksm=faf4450ecd83cc18690b91b8b84c93be923594fcca917352eb750c783e5f5d14726d7162bd11&token=641027228&lang=zh_CN#rd)》，*中国数学会*【[转载](https://mp.weixin.qq.com/s?__biz=MzIxNTk0MzMwOQ==&amp;mid=2247485924&amp;idx=1&amp;sn=56657a88228499285ae2bfcab6a7f14d&token=641027228&lang=zh_CN#rd)】，2018.03.
 
-> #### 九、联系邮箱
+> ### 九、联系邮箱
 
-    yuxisheng@swufe.edu.cn
+  -- yuxisheng@swufe.edu.cn
 
 
 
