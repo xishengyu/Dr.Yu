@@ -114,5 +114,4 @@
 > ### 九、其他
   
 - 标签：规格严格，功夫到家
-  
-- E-mail: *<u>yuxisheng@swufe.edu.cn</u>*
+  - E-mail: *<u>yuxisheng@swufe.edu.cn</u>*
