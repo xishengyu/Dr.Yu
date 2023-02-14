@@ -1,34 +1,24 @@
 ## 余喜生
 
 金融学博士 (金融工程, 2012), 数学硕士 (泛函分析)；西南财经大学副教授，新南威尔士大学访问学者。首批四川省"万人计划"入选者，西南财经大学"百人计划"人选；国家自科基金项目同行评议专家，教育部学位中心通讯评审专家，四川省高校职称评定同行评议专家。中国工业与应用数学学会金融科技专委会委员，中国优选法统筹法与经济数学研究会经济数学与管理数学分会理事；成都市新经济产业委员会、青羊区人社局专家顾问。曾任金融数学系副主任、中金所会员单位培训讲师。
-
-
-
+    
 > ### 一、研究方向
 
 衍生品定价与对冲、量化交易与金融科技
-
-
-
+    
 > ### 二、讲授课程
 
 金融随机分析、金融衍生品定价、金融数学方法
-
-
-
+    
 > ### 三、重要学术论著（选）
 
 - **余喜生<sup>*</sup>**，姚雨薇. "离散分红情形下的欧式期权定价新模型"，*数学学报* (数学类顶刊)，forthcoming
   
-  - 【***贡献***：研究了具挑战性的问题“多次离散分红欧式期权定价“：直觉逻辑并理论上，构建起能够给出期权价格解析式的模型。修正了经典的Spot与Forward模型，且定价结果是目前国际上已知最精确 (之一)】
-  
-    
+  - 【***贡献***：研究了具挑战性的问题“多次离散分红欧式期权定价“：直觉逻辑并理论上，构建起能够给出期权价格解析式的模型。修正了经典的Spot与Forward模型，且定价结果是目前国际上已知最精确 (之一)】 
   
 - **X., Yu**. “[On the convergence of two types of estimators of quadratic variation](https://www.researchgate.net/publication/344771552_On_the_convergence_of_two_types_of_estimators_of_quadratic_variation)”, *Math. Method. Appl. Sci.,* 45(18), 2022, [12206-12221](https://doi.org/10.1002/mma.8007). (JCR-Q1)
   
   - 【***贡献***：对之前提出的QV两个估计式进行了扩展：通过构造重要定理，证明了在较弱条件下，其中的time-varying volatility (时变波动率?)可放松至随机波动率】
-  
-    
   
 - **X., Yu**. “[A unified entropic pricing framework of option: Using Cressie-Read family of divergences](https://www.researchgate.net/publication/352493790_A_Unified_Entropic_Pricing_Framework_of_Option_Using_Cressie-Read_Family_of_Divergences?_sg%5B0%5D=f5WJL6XISc8VYsRoLBiurV3KAHfQHUhlP_zVXY4PjaaH5gghGyj5Kv3wW665KVtSb7YnDm4aYRdCs6JLW0Pd3wwXQdNuSlMuIbVVHWL8.TGf4PzwLj2QqbBaJuEhlIZKD-_qMESEfE8WqtM85lHChGGe9O-jWTsteiWfQpMdvNxONWOZrkUaYRQT0GtPuhw)”, *North Am. J. Econ. Finance*, 2021 (58), [101495](https://doi.org/10.1016/j.najef.2021.101495). (ABS-2☆)
   - 【***贡献***：建立了广泛熵定价统一框架，对欧式期权进行了定价分析与比较。可用于美式等期权定价】
@@ -107,7 +97,6 @@
   
 - 服务/管理
   - 学校：优秀共产党员、抗震救灾先进个人；
-  
   - 学院：管理服务工作突出奖、优秀党员教师、优秀党务工作者、管理工作突出奖等.  
   
     
