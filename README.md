@@ -1,11 +1,6 @@
 ## 余喜生
 
-金融学博士 (金融工程, 2012), 数学硕士 (泛函分析)；西南财经大学副教授，新南威尔士大学访问学者。
-首批四川省"万人计划"入选者，西南财经大学"百人计划"人选；
-国家自科基金项目同行评议专家，教育部学位中心通讯评审专家，四川省高校职称评定同行评议专家。
-中国工业与应用数学学会金融科技专委会委员，中国优选法统筹法与经济数学研究会经济数学与管理数学分会理事；
-成都市新经济产业委员会、青羊区人社局专家顾问。
-曾任金融数学系副主任、中金所会员单位培训讲师。
+金融学博士 (金融工程, 2012), 数学硕士 (泛函分析)；西南财经大学副教授，新南威尔士大学访问学者。首批四川省"万人计划"入选者，西南财经大学"百人计划"人选；国家自科基金项目同行评议专家，教育部学位中心通讯评审专家，四川省高校职称评定同行评议专家。中国工业与应用数学学会金融科技专委会委员，中国优选法统筹法与经济数学研究会经济数学与管理数学分会理事；成都市新经济产业委员会、青羊区人社局专家顾问。曾任金融数学系副主任、中金所会员单位培训讲师。
 
 
 
@@ -24,22 +19,35 @@
 > ### 三、重要学术论著（选）
 
 - **余喜生<sup>*</sup>**，姚雨薇. "离散分红情形下的欧式期权定价新模型"，*数学学报* (数学类顶刊)，forthcoming
+  
   - 【***贡献***：研究了具挑战性的问题“多次离散分红欧式期权定价“：直觉逻辑并理论上，构建起能够给出期权价格解析式的模型。修正了经典的Spot与Forward模型，且定价结果是目前国际上已知最精确 (之一)】
-
+  
+    
+  
 - **X., Yu**. “[On the convergence of two types of estimators of quadratic variation](https://www.researchgate.net/publication/344771552_On_the_convergence_of_two_types_of_estimators_of_quadratic_variation)”, *Math. Method. Appl. Sci.,* 45(18), 2022, [12206-12221](https://doi.org/10.1002/mma.8007). (JCR-Q1)
+  
   - 【***贡献***：对之前提出的QV两个估计式进行了扩展：通过构造重要定理，证明了在较弱条件下，其中的time-varying volatility (时变波动率?)可放松至随机波动率】
-
-- **X., Yu**. “[A unified entropic pricing framework of option: Using Cressie-Read family of divergences](https://www.researchgate.net/publication/352493790_A_Unified_Entropic_Pricing_Framework_of_Option_Using_Cressie-Read_Family_of_Divergences?_sg%5B0%5D=f5WJL6XISc8VYsRoLBiurV3KAHfQHUhlP_zVXY4PjaaH5gghGyj5Kv3wW665KVtSb7YnDm4aYRdCs6JLW0Pd3wwXQdNuSlMuIbVVHWL8.TGf4PzwLj2QqbBaJuEhlIZKD-_qMESEfE8WqtM85lHChGGe9O-jWTsteiWfQpMdvNxONWOZrkUaYRQT0GtPuhw)”, *North Am. J. Econ. Finance*, 2021 (58), [101495](https://doi.org/10.1016/j.najef.2021.101495). (ABS-2★)
+  
+    
+  
+- **X., Yu**. “[A unified entropic pricing framework of option: Using Cressie-Read family of divergences](https://www.researchgate.net/publication/352493790_A_Unified_Entropic_Pricing_Framework_of_Option_Using_Cressie-Read_Family_of_Divergences?_sg%5B0%5D=f5WJL6XISc8VYsRoLBiurV3KAHfQHUhlP_zVXY4PjaaH5gghGyj5Kv3wW665KVtSb7YnDm4aYRdCs6JLW0Pd3wwXQdNuSlMuIbVVHWL8.TGf4PzwLj2QqbBaJuEhlIZKD-_qMESEfE8WqtM85lHChGGe9O-jWTsteiWfQpMdvNxONWOZrkUaYRQT0GtPuhw)”, *North Am. J. Econ. Finance*, 2021 (58), [101495](https://doi.org/10.1016/j.najef.2021.101495). (ABS-2☆)
   - 【***贡献***：建立了广泛熵定价统一框架，对欧式期权进行了定价分析与比较。可用于美式等期权定价】
-
+  
 - **X., Yu**. “[Nonparametric estimation of quadratic variation using high-frequency data](https://www.researchgate.net/publication/344224871_Nonparametric_estimation_of_quadratic_variation_using_high-frequency_data)”, *Math. Method. Appl Sci.*, 2021, [6863](https://onlinelibrary.wiley.com/doi/10.1002/mma.6863). (JCR-Q1)
   - 【***贡献***：构造了资产收益半鞅过程QV的两种估计式，比现有估计式具有更优的收敛性与应用性。提供了使用高频数据估计波动率的两种结果。受计量经济学学者E. M. Renault的关注】
 
+    
+  
 - **X., Yu**. “[Risk-Neutrality of RND and Option Pricing within an Entropy Framework](https://www.researchgate.net/publication/343331402_Risk-Neutrality_of_RND_and_Option_Pricing_within_an_Entropy_Framework?_sg%5B0%5D=hogg-oTpvJ5V58EMYtM8UeQgMSHtYPJ7e2wZKoaa6g5QZtaJDaEl4Jq6rfi9kiEIFWC3gN5TBiyGztyJn8MmgDpeEFPf3_aeixsjIkN1.7zQQygMZkiVWleYQLPblaMKZ9LuD4PzSqYQMeJ_D2POxes7y8ETPLTyTvqsZl4Jziu0B_5OzOAW_Zkto7CMDoA)”, *Entropy*, 2020, 22(8), [836](https://www.mdpi.com/1099-4300/22/8/836).   (JCR-Q2；“期权Entropy定价方法”的**创立者M. Stutzer在此期刊独立发表论文**两篇)
   - 【***贡献***：证明了在Entropy框架下，嵌入RNM得到的定价测度为风险中性的，从而可用于期权定价】
 
-- **X., Yu<sup>*</sup>**, X., Xie. “[Pricing American options: RNMs-constrained entropic least-squares approach](https://www.researchgate.net/publication/268693877_Pricing_American_options_RNMs-constrained_entropic_least-squares_approach)”, *North Am. J. Econ. Finance*, 2015(31), [155-173](https://www.sciencedirect.com/science/article/abs/pii/S1062940814001144?via%3Dihub). （ABS-2★）
+    
+  
+- **X., Yu<sup>*</sup>**, X., Xie. “[Pricing American options: RNMs-constrained entropic least-squares approach](https://www.researchgate.net/publication/268693877_Pricing_American_options_RNMs-constrained_entropic_least-squares_approach)”, *North Am. J. Econ. Finance*, 2015(31), [155-173](https://www.sciencedirect.com/science/article/abs/pii/S1062940814001144?via%3Dihub). （ABS-2☆）
+  
   - 【***贡献***：首次将Risk-neutral Moments引入期权的Entropy (熵) 定价模型，为实际金融市场提供了精准的唯一风险中性定价测度；提高了美式期权定价的精确性】
+  
+    
 
 
 - **余喜生**，期权的价格信息与熵定价方法，西南财经大学出版社，20万字，2016年4月.
@@ -83,7 +91,6 @@
 > ### 六、荣誉
 
 - 学术/人才称号
-
   - 2019/10：四川省“天府英才卡”A卡持有人 (省人才办)；
   - 2019/07：西南财大“光华英才工程”项目（百人计划学术B类）；
   - 2018/11：入选省“万人计划”青年拔尖人才（金融菁英项目）；
@@ -91,20 +98,18 @@
   - 2014/02：学院“科研突出成绩奖”；
   - 2013/10：中期协“第二届全国高校期货论文大奖赛”一等奖 (第一名)；
   - 2011/10：FMA-2011年会（四大顶级金融学术年会之一）宣讲论文，获优秀论文提名.
-
+  
 - 人才培养
-
   - 2021/07：西南财大“优秀毕业论文”指导教师（该生被推荐保送至*复旦大学*数学学院金融专硕）；
   - 2020/11：西南财大“优秀毕业论文”指导教师（该生被推荐保送至*北京大学*汇丰商学院）；
   - 2018/03：首届“中国国际高校量化金融大赛（教育部等单位主办）”优秀指导教师；
   - 2017/01：西南财大“2016年度优秀教学成果奖”一等奖.
-
+  
 - 服务/管理
-
   - 学校：优秀共产党员、抗震救灾先进个人；
-
+  
   - 学院：管理服务工作突出奖、优秀党员教师、优秀党务工作者、管理工作突出奖等.  
-
+  
     
 
 > ### 七、成果转化
