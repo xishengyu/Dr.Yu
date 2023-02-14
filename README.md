@@ -21,13 +21,13 @@
   - 【***贡献***：研究了具挑战性的问题“多次离散分红欧式期权定价“：直觉逻辑并理论上，构建起能够给出期权价格解析式的模型。修正了经典的Spot与Forward模型，且定价结果是目前国际上已知最精确 (之一)】
 
 - **X., Yu**. “[On the convergence of two types of estimators of quadratic variation](https://www.researchgate.net/publication/344771552_On_the_convergence_of_two_types_of_estimators_of_quadratic_variation)”, *Math. Method. Appl. Sci.,* 45(18), 2022, [12206-12221](https://doi.org/10.1002/mma.8007). (JCR-Q1)
-  - 【***贡献***：对之前提出的QV两个估计式进行了扩展：通过构造重要定理，证明了在较弱条件下，其中的time-varying volatility (时变波动率)可放松至随机波动率】
+  - 【***贡献***：对之前提出的QV两个估计式进行了扩展：通过构造重要定理，证明了在较弱条件下，其中的time-varying volatility (时变波动率?)可放松至随机波动率】
 
 - **X., Yu**. “[A unified entropic pricing framework of option: Using Cressie-Read family of divergences](https://www.researchgate.net/publication/352493790_A_Unified_Entropic_Pricing_Framework_of_Option_Using_Cressie-Read_Family_of_Divergences?_sg%5B0%5D=f5WJL6XISc8VYsRoLBiurV3KAHfQHUhlP_zVXY4PjaaH5gghGyj5Kv3wW665KVtSb7YnDm4aYRdCs6JLW0Pd3wwXQdNuSlMuIbVVHWL8.TGf4PzwLj2QqbBaJuEhlIZKD-_qMESEfE8WqtM85lHChGGe9O-jWTsteiWfQpMdvNxONWOZrkUaYRQT0GtPuhw)”, *North Am. J. Econ. Finance*, 2021 (58), [101495](https://doi.org/10.1016/j.najef.2021.101495). (ABS-2☆)
   - 【***贡献***：建立了广泛熵定价统一框架，对欧式期权进行了定价分析与比较。可用于美式等期权定价】
   
 - **X., Yu**. “[Nonparametric estimation of quadratic variation using high-frequency data](https://www.researchgate.net/publication/344224871_Nonparametric_estimation_of_quadratic_variation_using_high-frequency_data)”, *Math. Method. Appl Sci.*, 2021, [6863](https://onlinelibrary.wiley.com/doi/10.1002/mma.6863). (JCR-Q1)
-  - 【***贡献***：构造了资产收益半鞅过程QV的两种估计式，比现有估计式具有更优的收敛性与应用性。提供了使用高频数据估计波动率的两种结果。受计量经济学学者Eric Michel Renault的关注】
+  - 【***贡献***：构造了资产收益半鞅过程QV的两种估计式，比现有估计式具有更优的收敛性与应用性。提供了使用高频数据估计波动率的两种结果。受计量经济学大拿E. M. Renault的关注】
 
 - **X., Yu**. “[Risk-Neutrality of RND and Option Pricing within an Entropy Framework](https://www.researchgate.net/publication/343331402_Risk-Neutrality_of_RND_and_Option_Pricing_within_an_Entropy_Framework?_sg%5B0%5D=hogg-oTpvJ5V58EMYtM8UeQgMSHtYPJ7e2wZKoaa6g5QZtaJDaEl4Jq6rfi9kiEIFWC3gN5TBiyGztyJn8MmgDpeEFPf3_aeixsjIkN1.7zQQygMZkiVWleYQLPblaMKZ9LuD4PzSqYQMeJ_D2POxes7y8ETPLTyTvqsZl4Jziu0B_5OzOAW_Zkto7CMDoA)”, *Entropy*, 2020, 22(8), [836](https://www.mdpi.com/1099-4300/22/8/836).   (JCR-Q2；“期权Entropy定价方法”的**创立者M. Stutzer在此期刊独立发表论文**两篇)
   - 【***贡献***：证明了在Entropy框架下，嵌入RNM得到的定价测度为风险中性的，从而可用于期权定价】
@@ -100,10 +100,6 @@
 
 - **余喜生**，《[大学数学，爱也罢恨也罢](https://mp.weixin.qq.com/s?__biz=MzUzNjUxNTE4NA==&mid=2247483921&idx=1&sn=719928ebf1d5dedaa4fd02986b8159cc&chksm=faf4450ecd83cc18690b91b8b84c93be923594fcca917352eb750c783e5f5d14726d7162bd11&token=641027228&lang=zh_CN#rd)》，*中国数学会*【[转载](https://mp.weixin.qq.com/s?__biz=MzIxNTk0MzMwOQ==&amp;mid=2247485924&amp;idx=1&amp;sn=56657a88228499285ae2bfcab6a7f14d&token=641027228&lang=zh_CN#rd)】，2018.03.
 
-> ### 九、联系
-
-  E-mail: *<u>yuxisheng@swufe.edu.cn</u>*
-
-
-
-![](https://komarev.com/ghpvc/?komarev.com/ghpvc/?username=xishengyu)
+> ### 九、其他
+- 标签：规格严格，功夫到家
+- E-mail: *<u>yuxisheng@swufe.edu.cn</u>*
