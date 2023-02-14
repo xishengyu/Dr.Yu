@@ -3,16 +3,14 @@
 金融学博士 (金融工程, 2012), 数学硕士 (泛函分析)；西南财经大学副教授，新南威尔士大学访问学者。首批四川省"万人计划"入选者，西南财经大学"百人计划"人选；国家自科基金项目同行评议专家，教育部学位中心通讯评审专家，四川省高校职称评定同行评议专家。中国工业与应用数学学会金融科技专委会委员，中国优选法统筹法与经济数学研究会经济数学与管理数学分会理事；成都市新经济产业委员会、青羊区人社局专家顾问。曾任金融数学系副主任、中金所会员单位培训讲师。
     
 > ### 一、研究方向
-
-衍生品定价与对冲、量化交易与金融科技
+ 衍生品定价与对冲、量化交易与金融科技
     
 > ### 二、讲授课程
-
-金融随机分析、金融衍生品定价、金融数学方法
+ 金融随机分析、金融衍生品定价、金融数学方法
     
 > ### 三、重要学术论著（选）
 
-- **余喜生<sup>*</sup>**，姚雨薇. "离散分红情形下的欧式期权定价新模型"，*数学学报* (数学类顶刊)，forthcoming  
+- **余喜生★**，姚雨薇. "离散分红情形下的欧式期权定价新模型"，*数学学报* (数学类顶刊)，forthcoming  
   - 【***贡献***：研究了具挑战性的问题“多次离散分红欧式期权定价“：直觉逻辑并理论上，构建起能够给出期权价格解析式的模型。修正了经典的Spot与Forward模型，且定价结果是目前国际上已知最精确 (之一)】 
     
 - **X., Yu**. “[On the convergence of two types of estimators of quadratic variation](https://www.researchgate.net/publication/344771552_On_the_convergence_of_two_types_of_estimators_of_quadratic_variation)”, *Math. Method. Appl. Sci.,* 45(18), 2022, [12206-12221](https://doi.org/10.1002/mma.8007). (JCR-Q1)  
@@ -27,7 +25,7 @@
 - **X., Yu**. “[Risk-Neutrality of RND and Option Pricing within an Entropy Framework](https://www.researchgate.net/publication/343331402_Risk-Neutrality_of_RND_and_Option_Pricing_within_an_Entropy_Framework?_sg%5B0%5D=hogg-oTpvJ5V58EMYtM8UeQgMSHtYPJ7e2wZKoaa6g5QZtaJDaEl4Jq6rfi9kiEIFWC3gN5TBiyGztyJn8MmgDpeEFPf3_aeixsjIkN1.7zQQygMZkiVWleYQLPblaMKZ9LuD4PzSqYQMeJ_D2POxes7y8ETPLTyTvqsZl4Jziu0B_5OzOAW_Zkto7CMDoA)”, *Entropy*, 2020, 22(8), [836](https://www.mdpi.com/1099-4300/22/8/836).   (JCR-Q2；“期权Entropy定价方法”的**创立者M. Stutzer在此期刊独立发表论文**两篇)  
   - 【***贡献***：证明了在Entropy框架下，嵌入RNM得到的定价测度为风险中性的，从而可用于期权定价】
     
-- **X., Yu<sup>*</sup>**, X., Xie. “[Pricing American options: RNMs-constrained entropic least-squares approach](https://www.researchgate.net/publication/268693877_Pricing_American_options_RNMs-constrained_entropic_least-squares_approach)”, *North Am. J. Econ. Finance*, 2015(31), [155-173](https://www.sciencedirect.com/science/article/abs/pii/S1062940814001144?via%3Dihub). （ABS-2☆）  
+- **X., Yu★**, X., Xie. “[Pricing American options: RNMs-constrained entropic least-squares approach](https://www.researchgate.net/publication/268693877_Pricing_American_options_RNMs-constrained_entropic_least-squares_approach)”, *North Am. J. Econ. Finance*, 2015(31), [155-173](https://www.sciencedirect.com/science/article/abs/pii/S1062940814001144?via%3Dihub). （ABS-2☆）  
   - 【***贡献***：首次将Risk-neutral Moments引入期权的Entropy (熵) 定价模型，为实际金融市场提供了精准的唯一风险中性定价测度；提高了美式期权定价的精确性】
     
 - **余喜生**，期权的价格信息与熵定价方法，西南财经大学出版社，20万字，2016年4月.
@@ -40,7 +38,7 @@
     
 > ### 五、学术会议（选）
 
-- 第二十届中国金融工程学年会，*Market Time-series Reversal*：Evidence from China<sup>'</sup>s market*，西藏，2022/06/25，线上； 
+- 第二十届中国金融工程学年会，*Market Time-series Reversal：Evidence from China’s market*，西藏，2022/06/25，线上； 
 - 第十八届中国金融学年会，*Valuation of European options on stock with discrete known dividends: An accurate dividend-weighted model*，厦门大学，2021/10/31，线上；  
 - 第31届 中国优选法统筹法与经济数学研究会经济数学与管理数学分会，*Estimating Quadratic Variation Using a Generalized Ito Isometry*, 敦煌，2019年8月23-26. **大会邀请**报告；  
 - 11期香樟经济学论坛 (金融工程与金融科技) Seminar（成都），成都，2019年4月13-14，**召集人**；  
