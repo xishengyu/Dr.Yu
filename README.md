@@ -23,13 +23,13 @@
   -【***贡献***：建立了广泛熵定价统一框架，对欧式期权进行了定价分析与比较。可用于美式等期权定价】
 
 - **X., Yu**. “[Nonparametric estimation of quadratic variation using high-frequency data](https://www.researchgate.net/publication/344224871_Nonparametric_estimation_of_quadratic_variation_using_high-frequency_data)”, *Math. Method. Appl Sci.*, 2021, [6863](https://onlinelibrary.wiley.com/doi/10.1002/mma.6863). (JCR-Q1)
-  【***贡献***：构造了资产收益半鞅过程QV的两种估计式，比现有估计式具有更优的收敛性与应用性。提供了使用高频数据估计波动率的两种结果。受计量经济学学者E. M. Renault的关注】 
+  -【***贡献***：构造了资产收益半鞅过程QV的两种估计式，比现有估计式具有更优的收敛性与应用性。提供了使用高频数据估计波动率的两种结果。受计量经济学学者E. M. Renault的关注】 
 
 - **X., Yu**. “[Risk-Neutrality of RND and Option Pricing within an Entropy Framework](https://www.researchgate.net/publication/343331402_Risk-Neutrality_of_RND_and_Option_Pricing_within_an_Entropy_Framework?_sg%5B0%5D=hogg-oTpvJ5V58EMYtM8UeQgMSHtYPJ7e2wZKoaa6g5QZtaJDaEl4Jq6rfi9kiEIFWC3gN5TBiyGztyJn8MmgDpeEFPf3_aeixsjIkN1.7zQQygMZkiVWleYQLPblaMKZ9LuD4PzSqYQMeJ_D2POxes7y8ETPLTyTvqsZl4Jziu0B_5OzOAW_Zkto7CMDoA)”, *Entropy*, 2020, 22(8), [836](https://www.mdpi.com/1099-4300/22/8/836).   (JCR-Q2；“期权Entropy定价方法”的**创立者M. Stutzer在此期刊独立发表论文**[两篇](https://www.mdpi.com/1099-4300/20/5/369))  
-  - 【***贡献***：证明了在Entropy框架下，嵌入RNM得到的定价测度为风险中性的，从而可用于期权定价】
+  -【***贡献***：证明了在Entropy框架下，嵌入RNM得到的定价测度为风险中性的，从而可用于期权定价】
 
 - **X., Yu★**, X., Xie. “[Pricing American options: RNMs-constrained entropic least-squares approach](https://www.researchgate.net/publication/268693877_Pricing_American_options_RNMs-constrained_entropic_least-squares_approach)”, *North Am. J. Econ. Finance*, 2015(31), [155-173](https://www.sciencedirect.com/science/article/abs/pii/S1062940814001144?via%3Dihub). （ABS-2☆）  
-  - 【***贡献***：首次将Risk-neutral Moments引入期权的Entropy (熵) 定价模型，为实际金融市场提供了精准的唯一风险中性定价测度；提高了美式期权定价的精确性】
+  -【***贡献***：首次将Risk-neutral Moments引入期权的Entropy (熵) 定价模型，为实际金融市场提供了精准的唯一风险中性定价测度；提高了美式期权定价的精确性】
 
 - **余喜生**，期权的价格信息与熵定价方法，西南财经大学出版社，20万字，2016年4月.
 
